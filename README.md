@@ -29,9 +29,10 @@ To explore this project, follow these simple steps:
 3. Build and run app.
 
 ## Screenshot
-<img width="233" src="https://github.com/alessonJuley/SentenceApp/assets/92022487/a5133729-94ff-4808-8a58-b90f6c827122">    
-<img width="233" src="https://github.com/alessonJuley/SentenceApp/assets/92022487/2c81f5df-7258-4581-8c36-d9dcd638bb95">
-<img width="233" src="https://github.com/alessonJuley/SentenceApp/assets/92022487/0701595f-b191-4a49-ac6d-867cb1de94da">
+<img width="233" alt="314291956-a5133729-94ff-4808-8a58-b90f6c827122" src="https://github.com/user-attachments/assets/2b1321c3-5446-4eb7-a16b-ce5eb06642ec" />
+<img width="233" alt="315978453-2c81f5df-7258-4581-8c36-d9dcd638bb95" src="https://github.com/user-attachments/assets/bb81993f-e297-4fac-b315-ae13948a9bc6" />
+<img width="233" alt="315984573-0701595f-b191-4a49-ac6d-867cb1de94da" src="https://github.com/user-attachments/assets/c05a0e9d-b6f8-42bc-81f1-f02deb399521" />
+
 
 
 
